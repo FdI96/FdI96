@@ -5,10 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on my technical and soft skill for the future.
-- 🌱 I’m currently learning FrontEnd Development (CSS frameworks)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with my practices coding
+- 🌱 Working as Full Stack Software Developer
 - 💬 Ask me about anything!
 - 📫 Contact:
     ---
