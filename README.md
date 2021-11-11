@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with my practices coding
 - 💬 Ask me about anything!
-- 📫 How to reach me:
+- 📫 Contact:
     Twitter: https://twitter.com/federicolopezc7
     LinkeDin: https://www.linkedin.com/in/federico-ignacio-3285411a4/
 <!-- 😄 Pronouns: 
