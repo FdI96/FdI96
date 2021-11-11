@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about anything!
 - 📫 Contact:
     Twitter: https://twitter.com/federicolopezc7
-    LinkeDin: https://www.linkedin.com/in/federico-ignacio-3285411a4/
+    LinkedIn: https://www.linkedin.com/in/federico-ignacio-3285411a4/
 <!-- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 -->
