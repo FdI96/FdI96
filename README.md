@@ -11,7 +11,9 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with my practices coding
 - 💬 Ask me about anything!
 - 📫 Contact:
+    ---
     Twitter: https://twitter.com/federicolopezc7
+    ---
     LinkedIn: https://www.linkedin.com/in/federico-ignacio-3285411a4/
 <!-- 😄 Pronouns: 
 - ⚡ Fun fact: ...
