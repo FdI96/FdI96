@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
     ---
     Twitter: https://twitter.com/federicolopezc7
     ---
-    LinkedIn: https://www.linkedin.com/in/federico-ignacio-3285411a4/
+    LinkedIn: https://www.linkedin.com/in/federico-lopez-cechini/
 <!-- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 -->
